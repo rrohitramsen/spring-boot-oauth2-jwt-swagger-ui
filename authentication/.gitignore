@@ -1,0 +1,17 @@
+#target
+*/target/*
+target/*
+#intellij-files
+*.idea/*
+*.iml
+*.DS_Store
+*-pom.xml
+RemoteSystemsTempFiles/*
+.svn/*
+.settings/
+.project
+.metadata/
+.idea/
+.classpath
+../.DS_Store
+.idea/libraries/Maven*
