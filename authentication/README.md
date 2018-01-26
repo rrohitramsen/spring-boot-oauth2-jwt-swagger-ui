@@ -9,7 +9,7 @@ $ mvn spring-boot:run
 ## Swagger-UI
 * After starting the application Click on [Swagger-home](http://localhost:8080/api/swagger-ui.html)
 
-![Swagger-Home](/src/main/resources/images/Swagger-UI-Home.png "Swagger UI Home")
+![Swagger-Home](../src/main/resources/images/Swagger-UI-Home.png "Swagger UI Home")
 
 
 ## User Data
@@ -24,12 +24,12 @@ $ mvn spring-boot:run
 
 ## Authorize
 * Use above given user details to login and generate the authorization token.
-![Swagger-Home](/src/main/resources/images/Swagger-ui-auth.png "Swagger UI Home")
+![Swagger-Home](../src/main/resources/images/Swagger-ui-auth.png "Swagger UI Home")
 
-![Swagger-Home](/src/main/resources/images/swagger-ui-login.png "Swagger UI Home")
+![Swagger-Home](../src/main/resources/images/swagger-ui-login.png "Swagger UI Home")
 
 * Login using the generated token
-![Swagger-Home](/src/main/resources/images/swagger-ui-login-token.png "Swagger UI Home")
+![Swagger-Home](../src/main/resources/images/swagger-ui-login-token.png "Swagger UI Home")
 
 
 
